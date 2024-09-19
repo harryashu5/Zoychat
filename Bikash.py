@@ -48,6 +48,16 @@ async def start_(client: Client, message: Message):
 ┣❥︎ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/harry_bots)
 ┣❥︎ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/+mO8Gx5nOJms5Y2Nl)
 ┣❥︎ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 ➪ » [ʜᴀʀʀʏ💗](https://t.me/harry_bots)
+┣❥︎ 🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘
+┣❥︎ 👉 @harrysfeel   𝗔𝗡𝗗
+┣❥︎ 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 
+┣❥︎ 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗 
+┣❥︎ 😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 
+┣❥︎ 🙊 𝗧𝗢 👉 👀🤭
+┣❥︎ ♕︎𝐎𝐰𝐧𝐞𝐫♕︎   » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/tum_jaha_ham_wahi)
+┣❥︎ 👀𝗩𝗶𝗱𝘂𝗵♕︎⚡   » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/vidyanshu_xd)
+┣❥︎ ⚡𝗦𝗮𝗿𝗸𝗮𝗿❤️   » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/ll_SARKAR_MERA_BABU_ll)
+┣❥︎ 🤭𝗕𝗲𝘀𝘁𝗶𝗲❤️‍🩹  » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/SweetQuueennPrincy)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
