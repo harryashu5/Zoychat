@@ -8,10 +8,10 @@ import os
 import re
 
 
-API_ID = os.environ.get("API_ID", "21363693") 
-API_HASH = os.environ.get("API_HASH", "f2a1645b194ca14111527acc554d355c") 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7246661814:AAG-pNhJ3uuI2dRbmDi6qLHDKmx4H3nz_y8") 
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://johsir173:ashu271713@cluster0.brmeo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+API_ID = os.environ.get("API_ID", "") 
+API_HASH = os.environ.get("API_HASH", "") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+MONGO_URL = os.environ.get("MONGO_URL", "")
 BOT_IMAGE = os.environ.get("BOT_IMAGE", "https://graph.org/file/e0bf6bfac5d7a436449e0.jpg")
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "https://t.me/ll_MAGICIAN_ROBOT")
 OWNER_USERNAME = os.environ.get("OWNER_USERNAME", "https://t.me/tum_jaha_ham_wahi")
